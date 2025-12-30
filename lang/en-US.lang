@@ -1,13 +1,13 @@
 [categories]
-module.category.module.category.Chat.name=Chat
-module.category.module.category.Combat.name=Combat
-module.category.module.category.Miscellaneous.name=Miscellaneous
-module.category.module.category.Movement.name=Movement
-module.category.module.category.Player.name=Player
-module.category.module.category.Render.name=Render
-module.category.module.category.World.name=World
-module.category.module.category.Client.name=Client
-module.category.module.category.External.name=External
+module.category.chat.name=Chat
+module.category.combat.name=Combat
+module.category.miscellaneous.name=Miscellaneous
+module.category.movement.name=Movement
+module.category.player.name=Player
+module.category.render.name=Render
+module.category.world.name=World
+module.category.client.name=Client
+module.category.external.name=External
 
 
 
